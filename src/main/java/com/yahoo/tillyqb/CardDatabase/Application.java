@@ -1,4 +1,4 @@
-package com.yahoo.tillyqb.CardDatabase.services;
+package com.yahoo.tillyqb.CardDatabase;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
